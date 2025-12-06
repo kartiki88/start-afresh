@@ -16,13 +16,13 @@ Senior Data Engineer with 14+ years (Sep 2011–Present) of hands-on experience 
 
 | **Category** | **Details** |
 |---|---|
-| **Languages** | SQL (Advanced), PL/SQL, Scala/Spark, Unix Shell Scripting, Python |
-| **ETL/Data Tools** | Informatica PowerCenter (10.4–10.5), Talend, Talend BDM |
+| **Languages** | Scala/Spark, Python, SQL (Advanced), PL/SQL,  Unix Shell Scripting, Liquibase |
+| **ETL/Data Tools** | Databricks, Informatica PowerCenter (10.4–10.5), Talend |
 | **Workflow/Scheduling** | Control-M, Autosys, Airflow (Basics) |
 | **Databases** | Oracle 11g/12c, DB2, Hive, Impala, Sybase |
-| **Big Data/Cloud** | Apache Spark, Hadoop HDFS, Hive, Sqoop, Parquet/Avro Formats |
-| **BI/Analytics** | SAP BO, Microsoft Power BI, Tableau |
-| **Compliance/Security** | PII Masking, Domain Object-Based Security, Liquibase, GDPR Data Controls |
+| **Big Data/Cloud** | Apache Spark, Hadoop HDFS, Hive, Sqoop, DeltaLake, Parquet/Avro Formats  |
+| **BI/Analytics** |  Microsoft Power BI, SAP BO, Tableau |
+| **Compliance/Security** | Domain Object-Based Security, Medallion Architecture, PII Masking |
 
 ---
 
@@ -39,11 +39,11 @@ Designed and maintained enterprise-scale ETL infrastructure evaluating 2000+ poo
 
 **Key Achievements:**
 
-- **Architected 40+ complex Informatica/Talend mappings** ingesting Oracle 12c corporate loan and home loan data; designed parameterized workflows reducing month-end close time from 8 days → 5 days (37% improvement)
+- **Architected Informatica/Talend mappings** ingesting Oracle 12c corporate loan and home loan data; designed parameterized workflows reducing daata load time from 5+ hours → ~1 hour (60% improvement)
 
 - **Engineered enterprise PII masking framework** using domain objects for 50+ downstream Treasury/Risk users; ensured BCBS 239 audit compliance across €3B+ asset pools with zero control failures
 
-- **Led cross-functional team** (2 India + 1 Paris engineer) on code standardization, performance tuning, and best practices; reduced ETL job failure rate from 12% → 2% via partition strategies and Parquet optimization
+- **Led cross-functional team** (2 India + 1 Paris engineer) on code standardization, performance tuning, and best practices; improved ETL via partition strategies and Parquet optimization
 
 - **Migrated legacy Informatica workflows to Talend Big Data** for horizontal scalability; enabled processing of 5x larger loan datasets without infrastructure upgrade, reducing processing window from 6 hours → 2.5 hours
 
